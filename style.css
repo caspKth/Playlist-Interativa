@@ -33,7 +33,7 @@ body {
 
 .indicator {
   position: relative;
-  top: 32%;
+  top: 30%;
   left: -190px; /* distância da borda direita da caixa */
   transform: translateY(-50%);
   font-size: 22px;
